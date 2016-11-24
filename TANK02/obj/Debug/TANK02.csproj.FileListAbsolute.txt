@@ -1,0 +1,7 @@
+C:\Users\Akila\Desktop\TANK02\TANK02\obj\Debug\TANK02.csprojResolveAssemblyReference.cache
+C:\Users\Akila\Desktop\TANK02\TANK02\bin\Debug\TANK02.exe
+C:\Users\Akila\Desktop\TANK02\TANK02\bin\Debug\TANK02.pdb
+C:\Users\Akila\Desktop\TANK02\TANK02\obj\Debug\TANK02.exe
+C:\Users\Akila\Desktop\TANK02\TANK02\obj\Debug\TANK02.pdb
+C:\Users\Akila\Desktop\TANK02\TANK02\obj\Debug\TANK02.MainForm.resources
+C:\Users\Akila\Desktop\TANK02\TANK02\obj\Debug\TANK02.csproj.GenerateResource.Cache
