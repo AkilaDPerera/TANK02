@@ -160,11 +160,5 @@ namespace TANK02
 		{
 			Client.sendToServer("UP#");
 		}
-		
-		
-		void P1Click(object sender, EventArgs e)
-		{
-			
-		}
 	}
 }

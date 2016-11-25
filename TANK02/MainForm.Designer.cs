@@ -310,7 +310,6 @@ namespace TANK02
 			this.p1.Size = new System.Drawing.Size(36, 31);
 			this.p1.TabIndex = 6;
 			this.p1.TabStop = false;
-			this.p1.Click += new System.EventHandler(this.P1Click);
 			// 
 			// p2
 			// 
